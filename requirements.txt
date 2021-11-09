@@ -61,7 +61,6 @@ tokenizers==0.9.3
 toml==0.10.2
 toolz==0.11.1
 torchaudio==0.9.1
-torchvision==0.4.0+cu92
 tornado==6.0.4
 tqdm==4.45.0
 traitlets==4.3.3
