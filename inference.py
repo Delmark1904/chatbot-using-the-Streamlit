@@ -1,6 +1,6 @@
 import streamlit as st
 
-@st.cache(suppress_st_warning=True)
+
 def libs_import():
     from transformers import pipeline
     sentiment_analysis = pipeline("sentiment-analysis")
